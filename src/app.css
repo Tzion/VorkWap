@@ -97,7 +97,8 @@ main {
   border-radius: 18px;
   border: 1px solid #e4e8f2;
   box-shadow: 0 24px 60px rgba(14, 34, 77, 0.12);
-  overflow: hidden;
+  overflow: auto;
+  max-height: 80vh;
 }
 
 .table-head,
