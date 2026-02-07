@@ -30,7 +30,9 @@ Topic: Upper Pull + Core Focus
 - V-Ups | 3x10 | bodyweight
 - Side Planks | 3x30s each | bodyweight
 
-### Session 4
+## Week 2
+
+### Session 1
 Topic: Upper Body Hybrid
 - Incline Dumbbell Press | 3x10 | 20kg each
 - Cable Rows (High) | 3x10 | 45kg
@@ -40,9 +42,7 @@ Topic: Upper Body Hybrid
 - Decline Sit-ups | 3x15 | bodyweight
 - Bicycle Crunches | 3x20 | bodyweight
 
-## Week 2
-
-### Session 1
+### Session 2
 Topic: Upper Push + Core
 - Bench Press | 4x8 | 60kg
 - Arnold Press | 3x10 | 15kg each
@@ -52,7 +52,7 @@ Topic: Upper Push + Core
 - Ab Crunch Machine | 3x15 | 42kg
 - Mountain Climbers | 3x20 | bodyweight
 
-### Session 2
+### Session 3
 Topic: Lower Body + Core
 - Leg Press | 4x10 | 145kg
 - Goblet Squats | 3x12 | 22kg
@@ -62,7 +62,9 @@ Topic: Lower Body + Core
 - Wood Choppers | 3x12 each | 15kg
 - Dead Bug | 3x12 | bodyweight
 
-### Session 3
+## Week 3
+
+### Session 1
 Topic: Upper Pull + Core Focus
 - Lat Pulldown (Reverse Grip) | 4x8 | 67kg
 - Bent-Over Barbell Row | 3x10 | 42kg
@@ -72,7 +74,7 @@ Topic: Upper Pull + Core Focus
 - Hanging Leg Raises | 3x12 | bodyweight
 - Reverse Crunches | 3x15 | bodyweight
 
-### Session 4
+### Session 2
 Topic: Upper Body Hybrid
 - Dumbbell Bench Press | 3x10 | 22kg each
 - Seated Cable Row | 3x10 | 55kg
@@ -82,9 +84,7 @@ Topic: Upper Body Hybrid
 - Cable Crunches | 3x15 | 45kg
 - Plank to Push-up | 3x10 | bodyweight
 
-## Week 3
-
-### Session 1
+### Session 3
 Topic: Upper Push + Core
 - Bench Press | 4x6 | 62kg
 - Seated Dumbbell Press | 3x8 | 20kg each
@@ -94,7 +94,9 @@ Topic: Upper Push + Core
 - Ab Crunch Machine | 3x15 | 47kg
 - Flutter Kicks | 3x20 | bodyweight
 
-### Session 2
+## Week 4
+
+### Session 1
 Topic: Lower Body + Core
 - Leg Press | 4x8 | 155kg
 - Hack Squat | 3x10 | 75kg
@@ -104,7 +106,7 @@ Topic: Lower Body + Core
 - Russian Twists | 3x20 | 20kg
 - Hollow Body Hold | 3x30s | bodyweight
 
-### Session 3
+### Session 2
 Topic: Upper Pull + Core Focus
 - Pull-ups/Assisted Pull-ups | 4x6 | bodyweight
 - Cable Mid Row | 3x10 | 47kg
@@ -114,7 +116,7 @@ Topic: Upper Pull + Core Focus
 - Hanging Leg Raises | 3x15 | bodyweight
 - Side Crunches | 3x15 each | bodyweight
 
-### Session 4
+### Session 3
 Topic: Upper Body Hybrid
 - Push-ups (Weighted) | 3x12 | 10kg plate
 - Cable Row (Wide Grip) | 3x10 | 55kg
