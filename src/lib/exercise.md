@@ -2,7 +2,7 @@
 
 ### Session 1
 Topic: Upper Push + Core
-- Bench Press | 4x8 | 57kg
+- Decline Bench Press | 4x8 | 50kg
 - Smith Machine Shoulder Press | 3x10 | 45kg
 - Cable Chest Fly (High) | 3x12 | 17kg each
 - Tricep Rope Pushdown | 3x10 | 28kg
@@ -13,9 +13,9 @@ Topic: Upper Push + Core
 ### Session 2
 Topic: Lower Body + Core
 - Leg Press | 4x10 | 135kg
-- Smith Machine Squats | 3x10 | 60kg
+- Bulgarian Split Squats | 3x10 each | 15kg each
 - Leg Extension | 3x12 | 45kg
-- Seated Leg Curl | 3x10 | 45kg
+- Cable Hip Abduction | 3x12 each | 15kg
 - Standing Calf Raises | 3x15 | 60kg
 - Hanging Knee Raises | 3x12 | bodyweight
 - Russian Twists | 3x20 | 18kg
@@ -34,8 +34,8 @@ Topic: Upper Pull + Core Focus
 
 ### Session 1
 Topic: Upper Body Hybrid
-- Incline Dumbbell Press | 3x10 | 20kg each
-- Cable Rows (High) | 3x10 | 45kg
+- Decline Dumbbell Press | 3x10 | 20kg each
+- Single-Arm Dumbbell Row | 3x10 each | 25kg
 - Pec Deck | 3x12 | 45kg
 - Preacher Curls | 3x10 | 27kg
 - Overhead Tricep Extension | 3x12 | 10kg
@@ -44,10 +44,10 @@ Topic: Upper Body Hybrid
 
 ### Session 2
 Topic: Upper Push + Core
-- Bench Press | 4x8 | 60kg
+- Decline Barbell Press | 4x8 | 55kg
 - Arnold Press | 3x10 | 15kg each
-- Decline Bench Press | 3x10 | 52kg
-- French Press | 3x10 | 27kg
+- Dips (Chest Focused) | 3x10 | bodyweight
+- Overhead Cable Tricep Extension | 3x10 | 30kg
 - Cable Lateral Raises | 3x12 | 12kg each
 - Ab Crunch Machine | 3x15 | 42kg
 - Mountain Climbers | 3x20 | bodyweight
@@ -56,9 +56,9 @@ Topic: Upper Push + Core
 Topic: Lower Body + Core
 - Leg Press | 4x10 | 145kg
 - Goblet Squats | 3x12 | 22kg
-- Leg Press (Single Leg) | 3x8 each | 85kg
+- Walking Lunges | 3x10 each | 15kg each
 - Lying Leg Curl | 3x10 | 42kg
-- Leg Press Calf Raises | 3x15 | 105kg
+- Seated Calf Raises | 3x15 | 40kg
 - Wood Choppers | 3x12 each | 15kg
 - Dead Bug | 3x12 | bodyweight
 
@@ -68,7 +68,7 @@ Topic: Lower Body + Core
 Topic: Upper Pull + Core Focus
 - Lat Pulldown (Reverse Grip) | 4x8 | 67kg
 - Bent-Over Barbell Row | 3x10 | 42kg
-- Machine Row | 3x10 | 52kg
+- Chest-Supported Row | 3x10 | 45kg
 - Barbell Curls | 3x10 | 27kg
 - Cable Shrugs | 3x12 | 52kg
 - Hanging Leg Raises | 3x12 | bodyweight
@@ -79,7 +79,7 @@ Topic: Upper Body Hybrid
 - Dumbbell Bench Press | 3x10 | 22kg each
 - Seated Cable Row | 3x10 | 55kg
 - Machine Fly | 3x12 | 45kg
-- Alternating Bicep Curls | 3x10 each | 17kg each
+- Hammer Curls | 3x10 | 17kg each
 - Tricep Kickbacks | 3x12 | 10kg each
 - Cable Crunches | 3x15 | 45kg
 - Plank to Push-up | 3x10 | bodyweight
@@ -100,8 +100,8 @@ Topic: Upper Push + Core
 Topic: Lower Body + Core
 - Leg Press | 4x8 | 155kg
 - Hack Squat | 3x10 | 75kg
-- Leg Extension | 3x10 | 50kg
-- Seated Leg Curl | 3x10 | 47kg
+- Romanian Deadlift | 3x10 | 40kg
+- Cable Kickbacks | 3x12 each | 20kg
 - Standing Calf Raises | 3x12 | 70kg
 - Russian Twists | 3x20 | 20kg
 - Hollow Body Hold | 3x30s | bodyweight
@@ -119,7 +119,7 @@ Topic: Upper Pull + Core Focus
 ### Session 3
 Topic: Upper Body Hybrid
 - Push-ups (Weighted) | 3x12 | 10kg plate
-- Cable Row (Wide Grip) | 3x10 | 55kg
+- Inverted Row | 3x10 | bodyweight
 - Cable Chest Flyes | 3x12 | 20kg each
 - Preacher Curl | 3x10 | 30kg
 - Tricep Dip Machine | 3x12 | 52kg
